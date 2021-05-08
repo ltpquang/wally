@@ -1,0 +1,2 @@
+# wally
+CLI random wallpaper
